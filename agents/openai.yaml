@@ -1,0 +1,4 @@
+interface:
+  display_name: "模特动作扩充与逐张对照"
+  short_description: "按用户指定数量扩展模特站姿，结合动作参考库与内置生图，交付逐张对照报告"
+  default_prompt: "使用 $fashion-model-pose-expander，按我指定的生图数量和参考动作库，为模特扩展动作并输出逐张对照报告。"

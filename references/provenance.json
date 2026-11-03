@@ -1,0 +1,36 @@
+{
+  "note": "Three uploaded system prompts are byte-identical. Personal source paths were removed for the public release. Word content is preserved including embedded images. Script restriction text is the exact extracted prompt used in the tested run.",
+  "sources": [
+    {
+      "source_label": "uploaded system prompt copy 1",
+      "bundled_path": "references/pose-transfer-system-prompt.txt",
+      "sha256": "38839ee7efed12c25ef4229e1b4c3488ac437d5f750d13be3da1c7fe32b44338",
+      "byte_count": 10885
+    },
+    {
+      "source_label": "uploaded system prompt copy 2",
+      "bundled_path": "references/pose-transfer-system-prompt.txt",
+      "sha256": "38839ee7efed12c25ef4229e1b4c3488ac437d5f750d13be3da1c7fe32b44338",
+      "byte_count": 10885
+    },
+    {
+      "source_label": "uploaded system prompt copy 3",
+      "bundled_path": "references/pose-transfer-system-prompt.txt",
+      "sha256": "38839ee7efed12c25ef4229e1b4c3488ac437d5f750d13be3da1c7fe32b44338",
+      "byte_count": 10885
+    },
+    {
+      "source_label": "user-provided Word reference",
+      "bundled_path": "assets/动作修改1103.docx",
+      "sha256": "e52103e3bdfcdcf8846a18098e6c9a2ec106c81e89c98b7df64c89196c3e5e29",
+      "byte_count": 10281257,
+      "public_metadata_sanitized": "2026-11-03"
+    },
+    {
+      "source_label": "tested-run standing-pose restriction prompt",
+      "bundled_path": "references/script-standing-system-prompt.txt",
+      "sha256": "3a75864e82c92c8a760d246759f573d73e62698f759e0b07de10275c5d7bd941",
+      "byte_count": 8643
+    }
+  ]
+}

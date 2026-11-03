@@ -1,0 +1,84 @@
+
+
+Use case: identity-preserve, photorealistic fashion pose transfer.
+
+Edit IMAGE 1, the full-length photograph of the woman with a shoulder-length wavy brown bob, a navy argyle sweater vest, a blue-and-white striped short-sleeve collared shirt, dark tailored knee-length wide-leg shorts, a silver belt, white socks, and black loafers. IMAGE 1 is the exclusive source for identity, hairstyle, skin tone, body proportions, clothing, accessories, background, and lighting. IMAGE 2, the woman in pink with embroidered boots, is the reference for pose, joint placement, head direction, and gaze only.
+
+Reconstruct Image 2's complete pose on the woman from Image 1. Use the reference's actual spatial relationships between the head, shoulders, elbows, wrists, pelvis, knees, and ankles. Anatomical left and right refer to the model, with viewer directions specified below.
+
+Head and torso: turn her head toward the viewer's LEFT to match Image 2's three-quarter head rotation, slightly lowered chin, neck angle, and off-camera leftward gaze. Retain Image 1's recognizable facial features and calm expression. Match Image 2's gently curved torso: the pelvis shifts toward the viewer's RIGHT, while the upper body counterbalances toward the viewer's LEFT. Reproduce the shoulder slope, with the shoulder on the viewer's LEFT slightly higher, and the opposite slope of the pelvis. Keep the chest largely facing the camera with the reference's subtle rotation.
+
+Raised arm: her RIGHT arm, on the viewer's LEFT, bends upward. Place the right elbow beside the lower chest and upper ribs, pointing down, with the forearm rising almost vertically in front of the right shoulder. Bring the right hand into her hair beside the right side of her neck, immediately below and behind her right ear. The relaxed fingers gently touch the hair and side of the neck, matching Image 2's wrist position and hand-to-head relationship. Preserve Image 1's short wavy bob and the silver bracelet on this raised right wrist.
+
+Lower arm: her LEFT upper arm, on the viewer's RIGHT, angles down beside the torso, with the elbow slightly outward. Bend the forearm inward toward the front-left waistband. Rest the left hand at the waistband and pocket entrance, with the thumb lightly hooked near the waistband and the remaining fingers relaxed diagonally downward and inward across the front of the shorts. Match Image 2's elbow height, wrist angle, and hand placement, adapting the contact to Image 1's existing silver belt and tailored waistband.
+
+Legs and feet: reproduce Image 2's narrow, uncrossed stance, asymmetric knee relaxation, and hip-to-ankle alignment. The leg on the viewer's LEFT is relatively straight; the knee on the viewer's RIGHT is softly relaxed, with its lower leg angling slightly inward. Bring both feet close together, side by side, with their inner edges nearly touching and toes facing mostly forward as in Image 2. Keep both original black loafers grounded naturally, with the original white socks visible.
+
+Preserve every defining wardrobe detail from Image 1: the navy V-neck vest, white-and-gray argyle pattern and small heart emblem, striped shirt collar and short sleeves, silver belt and ornate buckle, dark pleated wide-leg shorts at their original knee length, silver bracelet, white socks, and chunky black loafers. The short sleeves leave the raised forearm exposed. Let the fabric drape and pleats respond naturally to the pose while retaining the original garment cut and fit.
+
+Create one cohesive, realistic full-length fashion photograph. Preserve Image 1's approximately 4:5 portrait framing, soft warm-gray studio background, lighting, colors, natural skin texture, camera perspective, and floor shadows. Keep the complete head and both shoes visible. The final image should clearly show Image 1's person and outfit performing Image 2's pose.
+
+
+
+
+
+
+
+
+
+
+
+Use case: identity-preserve, photorealistic fashion pose transfer.
+
+Edit IMAGE 1, the full-length studio photograph of the man wearing a fuzzy teal beanie with a white motif, a white "guapo" T-shirt, oversized black pleated trousers, and dark low-profile lace-up shoes. IMAGE 1 is the exclusive source for the person's identity, facial features, dark skin tone, physique, clothing, accessories, and photographic setting. IMAGE 2, the man wearing a black graphic T-shirt and animal-print trousers, supplies only the target pose and joint relationships.
+
+Change Image 1's model to reproduce Image 2's complete stance as closely as possible. Anatomical left and right refer to the model; viewer directions are specified below. Prioritize the reference's actual head, shoulder, elbow, wrist, hip, and foot relationships over a generic standing pose.
+
+Head and shoulders: reproduce Image 2's clearly visible head tilt toward the viewer's LEFT, approximately 20 degrees, bringing his right ear closer to his right shoulder. Keep his face directed toward the camera, his gaze at the lens, and his chin slightly lowered, matching the reference's head rotation and neck angle. Tilt the original beanie together with the head, retaining its shape, fuzzy material, teal color, and white motif. Preserve Image 1's facial identity and relaxed neutral expression. Match Image 2's relaxed asymmetric shoulder line, with the shoulder on the viewer's LEFT lower than the shoulder on the viewer's RIGHT. Keep the torso almost front-facing with the same subtle sideways lean and relaxed hip alignment as Image 2.
+
+Right arm and hand, on the viewer's LEFT: lower the upper arm naturally alongside the torso, with the elbow nearly straight and the forearm descending toward the right trouser pocket. Insert the right hand into Image 1's right side pocket, matching Image 2's depth of insertion, wrist position, visible thumb area, and slight inward angle of the forearm. Allow the original pocket opening and pleated fabric to respond naturally to the hand.
+
+Left arm and hand, on the viewer's RIGHT: let the upper arm hang close to the torso, with a soft elbow and the forearm slanting slightly inward. Place the relaxed left hand visibly in front of the left upper thigh, below the waistband. Match Image 2's wrist rotation and loosely extended, gently curved fingers pointing down and slightly inward. Preserve the reference's asymmetry between the pocketed hand and the exposed hanging hand.
+
+Hips, legs, and feet: match Image 2's relaxed, moderately separated, uncrossed stance, visible leg axes, hip-to-foot alignment, and foot spacing. Both feet remain planted, with the foot on the viewer's LEFT mostly forward and the foot on the viewer's RIGHT angled outward. Preserve Image 1's body proportions, voluminous black trouser cut, front pleats, long hems, natural pooling at the shoes, and original footwear. The trouser fabric should drape around the repositioned legs naturally.
+
+Keep the original white short-sleeve T-shirt, exact dark lowercase "guapo" lettering, print placement, neckline, sleeve shape, and garment length. Let the released shirt hem fall naturally over the waistband. Retain Image 1's original skin appearance across the face, neck, arms, and hands. Every visible wardrobe and appearance detail comes from Image 1.
+
+Produce a single realistic full-length fashion photograph in Image 1's original 2:3 portrait aspect ratio. Preserve its white-to-light-gray seamless studio background, soft lighting direction, natural contrast, camera perspective, realistic textures, and floor contact shadows. Keep the complete beanie and both shoes in frame with comfortable margins. The result must read as the original man from Image 1, in his original outfit, performing Image 2's pose.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use case: identity-preserve, photorealistic fashion pose transfer.
+
+Edit IMAGE 1, the full-length photograph of the short-haired man wearing a dark navy leather zip-front bomber jacket, a white T-shirt, cream wide-leg trousers, brown shoes, a silver necklace, and a silver ring. IMAGE 1 supplies the person's identity, facial features, hairstyle, skin tone, physique, complete outfit, accessories, lighting, and studio setting. IMAGE 2, the man wearing a pink knitted hoodie and blue trousers, supplies only the target pose and spatial relationships.
+
+Repose the man from Image 1 to closely reproduce Image 2. The critical change is the asymmetric arm arrangement: the hand on the viewer's LEFT is HIGHER, beside the ear, while the hand on the viewer's RIGHT is LOWER, beside the base of the jaw and neck. Match Image 2's head tilt, shoulder slope, torso lean, elbow heights, wrists, hips, and visible leg and foot placement. Anatomical right and left refer to the model.
+
+Head and torso: reproduce Image 2's slight head tilt toward the viewer's RIGHT, gently lowered chin, and direct gaze toward the camera. Preserve Image 1's recognizable facial identity, short dark haircut, and relaxed lips. Position the head and upper chest slightly toward the viewer's RIGHT relative to the pelvis, matching the reference's relaxed diagonal body alignment. Match the raised shoulder on the viewer's LEFT and the lower opposite shoulder, with the chest remaining predominantly front-facing.
+
+Higher arm, the model's RIGHT arm on the viewer's LEFT: raise and bend this arm so the right elbow projects outward to the viewer's LEFT at approximately chest height. The forearm angles upward and inward toward the right side of the neck. Place the right hand beside and slightly behind the right ear, gripping and lifting the original jacket's right collar edge. Match Image 2's elevated wrist, bent fingers, and elbow-to-hand relationship. Preserve the silver ring from Image 1 on the same hand.
+
+Lower arm, the model's LEFT arm on the viewer's RIGHT: keep the left elbow lower, around the lower chest and upper-rib area, pointing down and slightly outward. Bend the forearm upward toward the left side of the neck. Place the left hand at the left collar edge near the base of the jaw, visibly lower than the right hand. Match Image 2's wrist angle, finger curl, and close hand-to-neck spacing.
+
+Garment contact: adapt Image 2's hood-gripping gesture to Image 1's existing leather jacket collar. Both hands grip the original leather collar, lifting its two sides to the corresponding heights. Retain the original collar pattern, leather material, jacket construction, zipper, ribbed cuffs, and ribbed hem. Let the leather form realistic folds and tension around the raised arms and collar. The garment remains Image 1's navy collared bomber jacket.
+
+Lower body: reproduce Image 2's hip shift, pelvic angle, and relaxed uncrossed stance. The model's RIGHT leg, on the viewer's LEFT, extends diagonally toward the viewer's LEFT and slightly forward, with that shoe farther left and lower in the frame. The LEFT leg, on the viewer's RIGHT, remains slightly farther back, with a softly relaxed knee and its shoe placed farther right and slightly higher in the frame. Match the reference's visible leg axes, foot separation, toe directions, and grounded contact while retaining Image 1's cream wide-leg trousers and original brown shoes.
+
+Preserve Image 1's white T-shirt, silver necklace, visible waistband details, jacket proportions and navy color, cream trouser cut and stitching, and original skin tone across every exposed area. Allow clothing folds to adjust naturally to the new pose. All appearance and wardrobe details come exclusively from Image 1.
+
+Create one realistic full-length studio fashion photograph in Image 1's original approximately 4:5 portrait aspect ratio. Preserve the light neutral seamless background, lighting direction, natural skin texture, leather highlights, camera perspective, and floor shadows. Frame the complete head and both shoes with a small comfortable margin. The final image must clearly show Image 1's original person and outfit performing Image 2's asymmetric raised-collar pose.
+
+
+
+
+
